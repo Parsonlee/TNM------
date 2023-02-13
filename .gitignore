@@ -1,5 +1,5 @@
 /.DS_Store
-/.ipynb_checkpoints
-/imgs
-/Train & Test sets
-/.html
+/.ipynb_checkpoints/
+/imgs/
+/Train & Test sets/
+*.html
